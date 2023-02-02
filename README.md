@@ -40,7 +40,7 @@ To view the report, you will need to have Power BI Desktop installed on your com
 
 ## And Finally, the Final 11
 ![Final 11](final1.png)
-![Final 11b](fibal2.png)
+![Final 11b](final2.png)
 
 We have a wicketkeeper in the best 11, fortunately. Else we could have made a slightly different team selection.
 
